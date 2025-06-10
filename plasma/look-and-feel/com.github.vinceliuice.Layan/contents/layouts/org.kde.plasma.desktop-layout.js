@@ -150,3 +150,14 @@ var layout = {
 ;
 
 plasma.loadSerializedLayout(layout);
+
+// Configuración de diseño para Layan Dark Neutral
+// Ajustes de color y tema oscuro
+var darkThemeConfig = {
+    panelTransparency: 0.7,
+    panelBackgroundColor: "#1f1f1f",
+    panelTextColor: "#e0e0e0",
+    desktopBackgroundColor: "#151515",
+    widgetBackgroundColor: "#1a1a1a",
+    widgetTextColor: "#e0e0e0"
+};
